@@ -4,6 +4,9 @@ Zomato Restaurant Data Analysis
 Project Overview
 This project involves analyzing a dataset from Zomato, a popular restaurant discovery and food delivery platform. The analysis focuses on understanding various aspects such as restaurant locations, cuisines, pricing, and customer ratings, which can provide insights into dining trends and preferences in different cities.
 
+![Zomato_dashboard](https://github.com/user-attachments/assets/e604d00a-0087-4a38-a8f1-3ea49cf63840)
+
+
 Dataset
 Description
 The dataset used in this analysis contains detailed information on restaurants listed on Zomato. It includes the following features:
@@ -42,4 +45,3 @@ Geospatial Analysis: Mapping restaurant locations to visualize the distribution 
 Delivery Trends: Examining the availability and trends in online delivery services.
 Usage
 
-https://github.com/milind2thakur/Zomato-Restaurant-Data-Analysis-Power-BI/blob/main/Zomato_dashboard.PNG
